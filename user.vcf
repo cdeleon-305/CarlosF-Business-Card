@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Carlos Fajardo;;;
+FN: Carlos Fajardo
+ORG:LiT LLC;
+TITLE:Founder,\n Leave it Touchless LLC
+EMAIL;type=INTERNET;type=WORK;type=pref:carlosf@leaveittouchless.com
+TEL;type=WORK;type=VOICE:+1 9546621120
+item1.ADR;type=WORK;type=pref:
+item1.X-ABADR:sg
+item2.URL;type=pref:leaveittouchless.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
