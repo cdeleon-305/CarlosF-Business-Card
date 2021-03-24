@@ -1,11 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Gump;Forrest;;Mr.;
+N:Fajardo;Carlos;;
 FN: Carlos Fajardo
 ORG:Leave it Touchless;
 TITLE:CEO & Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:carlosluis@leaveittouchless.com
+PHOTO;TYPE=JPEG;VALUE=URI:https://upload.wikimedia.org/wikipedia/commons/8/87/My_Dog_%2861220578%29.jpeg
 TEL;type=WORK;type=VOICE:+1 9546621120
 item1.ADR;type=WORK;type=pref:
 item1.X-ABADR:
